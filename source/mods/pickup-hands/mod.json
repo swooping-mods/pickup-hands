@@ -1,0 +1,20 @@
+{
+  "id": "pickup-hands",
+  "kind": "native",
+  "version": "0.1.1",
+  "display_name": "Pickup Hands",
+  "feature_dependencies": [],
+  "gameplay": true,
+  "play_help": [
+    "Picking up coffee or supported physical toys automatically uses internal empty hands; no inventory slot or hotkey is needed."
+  ],
+  "provides": {
+    "pickup-hands.hands": {
+      "abi": 1,
+      "size": 32,
+      "limits": {
+        "max_claims": 1
+      }
+    }
+  }
+}

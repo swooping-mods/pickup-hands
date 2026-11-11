@@ -1,0 +1,6 @@
+{
+  "schema": "moon-independent-build-spec/v1",
+  "id": "pickup-hands",
+  "kind": "native",
+  "entry": "mods/pickup-hands/mod.c"
+}
