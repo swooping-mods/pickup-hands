@@ -1,5 +1,7 @@
 # Pickup Hands
 
+<img src="media/icon.png" alt="Pickup Hands icon" width="128" height="128">
+
 Automatically frees your hands when picking up coffee, capsules or supported toys.
 
 ## Install
