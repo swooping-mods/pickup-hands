@@ -1,15 +1,6 @@
 # Pickup Hands: behavior and implementation
 
-Describes the retained payload **0.1.1**. The behavior prose describes the retained payload; current candidate source and metadata are identified below. Gameplay qualification is a separate requirement.
-
-
-<!-- source-only-sync -->
-## Current source candidate
-
-Source version **0.1.1** is saved from workshop revision `ca32bbf79ce0840d5166a232bdb3a9fdcd761254`. The retained installable payload remains **0.1.1** with its original bytes. This source update does not rebuild or requalify that payload. The current source and metadata define the candidate; gameplay, rendered behavior and co-op remain unqualified for rebuilt bytes.
-
-The authored behavior and lifecycle descriptions below are retained from the published payload. They are not new qualification evidence for the source candidate. The integration table below follows the current candidate metadata.
-<!-- /source-only-sync -->
+Describes the exported implementation **0.1.2**. The source hashes and packaged module identify this version; verification remains scoped to the checks below.
 
 ## Behavior
 
@@ -36,6 +27,8 @@ The [module metadata](../source/mods/pickup-hands/mod.json) owns the version and
 - [selection.h](../source/mods/pickup-hands/selection.h)
 
 ## Verification boundary
+
+Refresh the shared adapter and held-motion closure used by Squishy Plushie 0.2.1. Preserve the hands API and qualify actual pickup, held turning/walking and throw release in that closure. Native Windows gameplay, other mod combinations, long sessions and real co-op remain separate.
 
 This is selection/presentation arbitration, not new carry physics or a general inventory system. Simultaneous native/provider claims, blocked drop and restored equipment visuals need matching game checks.
 

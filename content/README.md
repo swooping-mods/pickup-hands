@@ -6,7 +6,7 @@ Automatically frees your hands when picking up coffee, capsules or supported toy
 
 Install [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) first.
 
-Download [pickup-hands-0.1.1.msmod](content/pickup-hands-0.1.1.msmod), import it with **Install mod package**, then select the mod and its required frameworks.
+Download [pickup-hands-0.1.2.msmod](content/pickup-hands-0.1.2.msmod), import it with **Install mod package**, then select the mod and its required frameworks.
 
 ## Controls
 
@@ -14,7 +14,7 @@ Download [pickup-hands-0.1.1.msmod](content/pickup-hands-0.1.1.msmod), import it
 
 ## Compatibility
 
-Version 0.1.1. Targets the pinned Steam Windows x64 IL2CPP build of Moon Sweepers (Steam app 5335510). On Linux, the game runs through Proton. Experimental: back up saves before using save-affecting mods.
+Version 0.1.2. Targets the pinned Steam Windows x64 IL2CPP build of Moon Sweepers (Steam app 5335510). On Linux, the game runs through Proton. Experimental: back up saves before using save-affecting mods.
 
 ## Build
 

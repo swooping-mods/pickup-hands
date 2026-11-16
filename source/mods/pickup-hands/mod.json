@@ -1,7 +1,7 @@
 {
   "id": "pickup-hands",
   "kind": "native",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "display_name": "Pickup Hands",
   "feature_dependencies": [],
   "gameplay": true,
